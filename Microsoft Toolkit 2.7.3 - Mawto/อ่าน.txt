@@ -1,0 +1,8 @@
+-ปิดแอนตี้ไวรัส
+-คลิกขวาที่ไฟล์ Microsoft Toolkit.exe > เลือก Run as Admin
+-กดไอคอนที่มุมล่างซ้ายของโปรแกรม โดยเลือก Windows หรือ Office ตามที่ต้องการ
+-คลิกที่แท็บ Activation > กด EZ-Activator > รอจนแอคติเวทเสร็จ (ขึ้น Successful)
+-หากไม่สำเร็จ ลองกด Install AutoKMS แล้วกด Activate
+
+============================
+MAWTOLOAD.COM
